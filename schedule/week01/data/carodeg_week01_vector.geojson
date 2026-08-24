@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "carodeg_week01_vector",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.039684539544197, 35.918171504368097 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -79.038259198097322, 35.918549967621658 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.039815780833734, 35.917847979328762 ] } }
+]
+}
