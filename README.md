@@ -4,8 +4,8 @@ This repository contains exercises and assignments for GEOG 592.
 
 ## Student information
 
-Name:
+Name: Caroline DeGroodt
 
-ONYEN:
+ONYEN: carodeg
 
-GitHub username:
+GitHub username: carodeg
