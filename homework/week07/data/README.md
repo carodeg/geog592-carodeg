@@ -4,6 +4,6 @@
 
 #Data displaying nc counties boundaries: https://unc.maps.arcgis.com/apps/mapviewer/index.html?layers=4db9b66c15c94f9b932861ded2b6cf9b
 
-#This map displays NC data centers: https://www.datacentermap.com/usa/north-carolina/
+#This map displays NC data centers: https://malachi.energy/data-centers/north-carolina?utm_source=chatgpt.com
 
 #My goal is to show how data center placement in North Carolina disadvantages low-income communities. 
