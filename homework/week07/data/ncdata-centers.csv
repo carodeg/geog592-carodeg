@@ -1,0 +1,27 @@
+name,operator,city,state,address,postcode,lat,lon,website,osm_type,osm_id,osm_url,address_basis,address_source
+,,,NC,,,35.5881079,-81.2625753,,way,116005354,https://www.openstreetmap.org/way/116005354,,
+,,,NC,,,35.8926759,-81.546755,,way,844372538,https://www.openstreetmap.org/way/844372538,,
+Brandaleone Lab for Data and Visualization,Duke Libraries,,NC,,,36.0030993,-78.9385323,,node,10567817971,https://www.openstreetmap.org/node/10567817971,,
+DartPoints Asheville,,Asheville,NC,100 Technology Drive,28803,35.4883165,-82.5575361,https://dartpoints.com/locations/avl01-asheville-nc/,node,14124835505,https://www.openstreetmap.org/node/14124835505,osm,
+iGLASS Networks,,Cary,NC,211 Commonwealth Court,27511,35.766751,-78.7839874,,way,758278314,https://www.openstreetmap.org/way/758278314,osm,
+Flexential Charlotte - North,Flexential,Charlotte,NC,10105 David Taylor Drive,28262,35.329773,-80.7657588,https://www.flexential.com/data-centers/nc/charlotte/north-data-center,way,1307920829,https://www.openstreetmap.org/way/1307920829,osm,
+Flexential Charlotte - South,Flexential,Charlotte,NC,8910 Lenox Pointe Drive,28272,35.1354147,-80.9368313,https://www.flexential.com/data-centers/nc/charlotte/south-data-center,way,215630401,https://www.openstreetmap.org/way/215630401,osm,
+SEGRA,,Charlotte,NC,1612 Cross Beam Drive,28217,35.1800507,-80.9263597,,way,838817943,https://www.openstreetmap.org/way/838817943,osm,
+Spectrum Charlotte National Data Center,,Charlotte,NC,8730 Green Ridge Drive,28217,35.1428083,-80.9162228,,way,516686211,https://www.openstreetmap.org/way/516686211,osm,
+TierPoint - Charlotte Data Center,TierPoint,Charlotte,NC,1805 Center Park Drive,28217,35.1731955,-80.928121,https://www.tierpoint.com/data-centers/north-carolina/charlotte-center-park/,way,838817907,https://www.openstreetmap.org/way/838817907,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+,CyrusOne,Durham,NC,2223 Northeast Creek Parkway,27713,35.9356302,-78.8806869,https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2,way,617525579,https://www.openstreetmap.org/way/617525579,osm,
+,CyrusOne,Durham,NC,2223 Northeast Creek Parkway,27713,35.9338893,-78.8809505,https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2,way,1556818364,https://www.openstreetmap.org/way/1556818364,osm,
+Level 3 Communications,,Durham,NC,5400 South Miami Boulevard,27703,35.881364,-78.8515726,,node,7324132051,https://www.openstreetmap.org/node/7324132051,osm,
+Windstream Communications,,Durham,NC,5400 South Miami Boulevard,27703,35.881397,-78.851552,,node,7324132050,https://www.openstreetmap.org/node/7324132050,osm,
+Meta,Meta,Forest City,NC,284 Social Circle,28043,35.3142602,-81.8220553,,way,460089167,https://www.openstreetmap.org/way/460089167,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+Meta,Meta,Forest City,NC,408 Social Circle,28043,35.317368,-81.82624,,way,460089168,https://www.openstreetmap.org/way/460089168,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+Meta,Meta,Forest City,NC,404 Social Circle,28043,35.3166121,-81.8251761,,way,883809860,https://www.openstreetmap.org/way/883809860,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+Meta,Meta,Forest City,NC,316 Social Circle,28043,35.3156695,-81.8221092,,way,1109074150,https://www.openstreetmap.org/way/1109074150,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+,,Indian Trail,NC,9320 Machado Drive,28079,35.1794881,-80.5701825,,way,923167491,https://www.openstreetmap.org/way/923167491,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+T5 Charlotte Campus,,Kings Mountain,NC,131 Riverside Court,28086,35.2504249,-81.395039,https://t5datacenters.com/locations/t5-charlotte/,way,715098032,https://www.openstreetmap.org/way/715098032,osm,
+,,Lenoir,NC,708 Lynhaven Street Southwest,28645,35.8983268,-81.547464,,way,186515922,https://www.openstreetmap.org/way/186515922,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+,,Maiden,NC,5977 Startown Road,28650,35.5870542,-81.2602838,,way,652034566,https://www.openstreetmap.org/way/652034566,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+,,Maiden,NC,5977 Startown Road,28650,35.5903924,-81.2645696,,way,873137563,https://www.openstreetmap.org/way/873137563,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
+Flexential Raleigh,Flexential,Morrisville,NC,5150 McCrimmon Parkway,27560,35.8505281,-78.8291431,https://www.flexential.com/data-centers/nc/raleigh/data-center,node,12112361725,https://www.openstreetmap.org/node/12112361725,osm,
+Segra Data Center,,Raleigh,NC,2100 Garner Station Boulevard,27603,35.7249921,-78.6623632,https://northstate.net/technologysolutions/,way,233888384,https://www.openstreetmap.org/way/233888384,osm,
+BB&T Data Center,,Zebulon,NC,49 Green Pace Road,27597,35.8393357,-78.3281352,,way,830138727,https://www.openstreetmap.org/way/830138727,address-point,"Overture Maps 2026-09-23.0 addresses, NAD"
