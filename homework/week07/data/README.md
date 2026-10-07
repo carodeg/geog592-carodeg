@@ -6,4 +6,6 @@
 
 #This map displays NC data centers: https://malachi.energy/data-centers/north-carolina?utm_source=chatgpt.com
 
-#My goal is to show how data center placement in North Carolina disadvantages low-income communities. 
+#data displaying nc public schools: https://data-nconemap.opendata.arcgis.com/datasets/dea6ff0e8b4743a0ba361e13a85a4c70_3/explore?location=35.619238%2C-79.008864%2C8
+
+#My goal is to show socioeconomic relationships between data center locations and nearby NC communities. 
