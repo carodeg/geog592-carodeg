@@ -1,1 +1,9 @@
-test/
+# Ignore generated atlas PDFs
+homework/week10/Durham_Test.pdf
+homework/week10/NC_Polling_Places_Atlas.pdf
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
